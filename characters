@@ -1,0 +1,9 @@
+mkdir xyz
+cd xyz
+git init
+git add characters story
+git commit -m "added characters and story"
+created my own repo on github also didnt add readme file
+git remote add origin https://github.com/ruchikawhj/c66new.git
+git branch -M main
+git push -u origin main
